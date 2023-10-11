@@ -43,8 +43,10 @@ main{
 }
 
 .card-body{
-	padding: 1rem;
+	card-body{
+	padding: 5px 10px;
 }
+
 
 .card-title{
 	text-align: center;
