@@ -44,13 +44,13 @@ main{
 
 .card-body{
 	card-body{
-	padding: 5px 10px;
+	padding: 5px 7px;
 }
 
 
-.card-title{
-	text-align: center;
-	color: var(--dark-blue);
+.card-title {
+    text-align: center;
+    color: var(--dark-blue);
 }
 
 .card-text{
